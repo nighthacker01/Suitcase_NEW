@@ -1,0 +1,6 @@
+{
+  "name": "Suitcase Mechanics Lab",
+  "description": "An interactive 3D engineering simulator for calculating structural stress, bending, and impact safety of suitcase handle designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
